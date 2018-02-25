@@ -28,6 +28,8 @@
 - Dark world
 - Hyrule temple
 
+- FF8 - Waltz for the moon https://www.youtube.com/watch?v=ci0um6j4I-c&t=330s
+
 ## Classical
 #### Grade 1 - 2
 - Spindler - Song without words
