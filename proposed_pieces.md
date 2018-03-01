@@ -4,11 +4,10 @@
 * Bach: [Prelude in C BWV 846](https://www.youtube.com/watch?v=PXMVkQ70I88) | [Sheet Music](https://www3.northern.edu/wieland/scores/Bach/WTC1PreludeC2.pdf) [Grade 3-4]
 * Field: [Nocturne no 5 in B flat major](https://www.youtube.com/watch?v=P_S-PN6oDlU) | [Sheet Music](http://ks.petruccimusiclibrary.org/files/imglnks/usimg/c/cd/IMSLP115004-PMLP24011-field_nocturne_no5_sibley.1802.2379.pdf) (Thanks to u/Chick3nNoodleSoup) [Grade 5-6]
 * Liszt: [No.2 from 4 Short Piano Pieces](https://www.youtube.com/watch?v=6Sq16iIhJkA) | [Sheet Music](http://hz.imslp.info/files/imglnks/usimg/f/f0/IMSLP31787-PMLP72283-Liszt_Musikalische_Werke_2_Band_10_Vier_kleine_Klavierstuecke.pdf) (Page 3 of the pdf) [Grade 7-8]
-* Veviurka to choose??? [Grade 8+]
 
 #### Jazz
 - Stephen Doonan: [Enchanted Island](https://www.youtube.com/watch?v=0-BkV4xl6Vs) | [Sheet Music](http://www.mutopiaproject.org/ftp/DoonanSC/enchanted-island/enchanted-island-a4.pdf) [Full Arrangement]
-- Traditional: [Oh Susannah!](https://youtu.be/je0G_Gn3xac?t=2m1s) | [Sheet Music](https://drive.google.com/file/d/1Dlc8jHPikjvoN0nz4Vs6nw_g8wht2nvF/view?usp=sharing) (Not jazz but suggested as a way to get people interested in lead sheets by u/Ceryliae) [Lead Sheet]
+- Miles Davis: [So What](https://www.youtube.com/watch?v=o9zQfgcwV1k) | [Sheet Music](https://drive.google.com/open?id=1s4CM15jyIOUz0X2BsdYvPzW7lAB6VeJk) and [Backing Track](https://drive.google.com/open?id=1h0UGF0y5B6ZdWqvE7fDGpHbORVEnWw21) [Lead Sheet] (Thanks to /u/GoldmanT)
 
 #### Ragtime
 - Scott Joplin: [Easy Winners](https://www.youtube.com/watch?v=NdCBT_VHnUk) | [Sheet Music](http://www.mutopiaproject.org/ftp/JoplinS/winners/winners-let.pdf)
@@ -18,8 +17,10 @@
 - Castlevania: [Vampire Killer](https://www.youtube.com/watch?v=DOBh_VrAGi0) | [Sheet Music](http://www.ninsheetmusic.org/download/pdf/2200) [Harder]
 
 #### Anime
-- Tokyo Ghoul: [Unravel](https://www.youtube.com/watch?v=Q0v3ajXh5S0) | [Sheet Music](http://www.mediafire.com/file/40vumm779etq97j/Unravel+-+Tokyo+Ghoul.pdf) (Thanks to u/123kyran123)
+- Tokyo Ghoul: [Unravel](https://www.youtube.com/watch?v=Q0v3ajXh5S0) | [Sheet Music](http://www.mediafire.com/file/40vumm779etq97j/Unravel+-+Tokyo+Ghoul.pdf) (Thanks to /u/123kyran123)
 
+#### 3 month challenge
+- Chopin: [Ballade No.3](https://www.youtube.com/watch?v=BkPLDoZXlHQ) | [Sheet Music](http://petrucci.mus.auth.gr/imglnks/usimg/7/7f/IMSLP113141-PMLP01648-FChopin_Ballade_No.3,_Op.47_BHBand1.pdf) (Thanks to /u/veviurka) [Month 1 / 3]
 
 ## April 2018
 #### Classical
@@ -33,6 +34,7 @@
 #### Jazz
 * Albert Ammons: [Boogie Woogie Stomp](https://www.youtube.com/watch?v=MsWjgnV3OsE) | [Sheet Music](http://sheets-piano.ru/wp-content/uploads/2015/09/A_Ammons_5_Boogie_Woogie.pdf) (Thanks to u/PeterAllenMusic) [Full Arrangement]
 * Duke Ellington: [Take the A Train](https://www.youtube.com/watch?v=KV8Hj_E8LJc) | [Sheet Music](https://www.swiss-jazz.ch/standards-jazz/TakeThTrain.pdf) [Lead Sheet]
+- Traditional: [Oh Susannah!](https://youtu.be/je0G_Gn3xac?t=2m1s) | [Sheet Music](https://drive.google.com/file/d/1Dlc8jHPikjvoN0nz4Vs6nw_g8wht2nvF/view?usp=sharing) (Not jazz but suggested as a way to get people interested in lead sheets by u/Ceryliae) [Lead Sheet]
 
 #### Ragtime
 * Scott Joplin: [Weeping Willow Rag](https://www.youtube.com/watch?v=hrhgvBd5puo) | [Sheet Music](http://www.ragtimepiano.ca/images/weeping.pdf)
