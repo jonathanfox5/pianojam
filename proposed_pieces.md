@@ -40,7 +40,7 @@
 * Scott Joplin: [Weeping Willow Rag](https://www.youtube.com/watch?v=hrhgvBd5puo) | [Sheet Music](http://www.ragtimepiano.ca/images/weeping.pdf)
 
 #### Video Game
-* Legend of Zelda: Ocarina of Time: [Kakariko Village](http://www.ninsheetmusic.org/download/pdf/1670) | [Sheet Music](https://www.youtube.com/watch?v=agR5aaQL2PY) [Easier]
+* Legend of Zelda: [Kakariko Village](https://www.youtube.com/watch?v=agR5aaQL2PY) | [Sheet Music](http://www.ninsheetmusic.org/download/pdf/1444) [Easier]
 * Hearthstone: [Main Theme](https://www.youtube.com/watch?v=My3oF_G9X4w) | [Sheet Music](https://www.dropbox.com/s/mwtn8pdnyl7ti09/Hearthstone%20-%20Main%20Theme.pdf?dl=0) [Harder]
 
 #### Anime
