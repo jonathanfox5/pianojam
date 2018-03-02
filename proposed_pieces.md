@@ -49,7 +49,7 @@
 
 ## May 2018
 #### Classical
-* Leopold Mozart: [Menuett in G](https://www.youtube.com/watch?v=qaeC2DM1yzQ) | [Sheet Music](http://www.free-scores.com/PDF_EN/mozart-leopold-menuet-en-re-mineur-48051.pdf) [Grade 1-2]
+* Leopold Mozart: [Menuett in Dm](https://www.youtube.com/watch?v=qaeC2DM1yzQ) | [Sheet Music](http://www.free-scores.com/PDF_EN/mozart-leopold-menuet-en-re-mineur-48051.pdf) [Grade 1-2]
 * Beethoven: [German Dance in E flat Major, WoO 13, No. 9](https://www.youtube.com/watch?v=tnPbUFu8qUU) | [Sheet Music](http://ks.petruccimusiclibrary.org/files/imglnks/usimg/3/31/IMSLP12821-Beethoven_woo13_12_German_Dances.pdf) (Page 8 of the pdf) [Grade 3-4]
 * Satie: [Gymnopedie No 1](https://www.youtube.com/watch?v=S-Xm7s9eGxU) | [Sheet Music](http://www.mutopiaproject.org/ftp/SatieE/gymnopedie_1/gymnopedie_1-a4.pdf) [Grade 5-6]
 * Handel: [Sonatina in D minor, HWV 581](https://www.youtube.com/watch?v=CetDexRR3Ek) | [Sheet Music](http://imslp.eu/files/imglnks/euimg/d/dc/IMSLP296258-PMLP480396-Handel,_Georg_Friedrich-HHA_Serie_IV_Band_17_13_HWV_581_scan.pdf) [Grade 7-8]
