@@ -65,6 +65,31 @@
 - Handel Sonatina in D minor, HWV 581
 - Liszt No.2 from 4 Short Piano Pieces, https://www.youtube.com/watch?v=6Sq16iIhJkA
 
+#### Grade 8+ short pieces
+
+- Chopin - Etude E major op. 10 no. 3
+- Beethoven - 1st movement of Sonata op. 13 "Pathetique"
+- Beethoven - Sonata in D minor Op.31 no.2 "Tempest" 1 st movement
+- Brahms Intermezzos op. 117 (most known no. 1 - Eb major, no 3 - C# minor )
+- Liszt Liebestraum (most known - no 3 "Nocturrno")
+- Rachmaninoff - Prelude G# minor op. 32 no 12
+- Rachmaninoff - Prelude G minor op. 23 no 5
+- Rachmaninoff - Prelude D major op. 23 no 4
+- Schubert - Impromptu in Gb major op. 90 no 3
+- Szymanowski - Etude in Bb minor, no.3 from "4 Etudes", Op.4
+- Debussy - any piece from Images (recommended Reflets dans l’eau or Hommage à Rameau)
+- Faure - Barcarolle no. 5 in F# minor
+
+#### Grade 8+ 3 month pieces
+I believe that here should go only very known pieces
+
+- Chopin Ballade G minor
+- Liszt Hungarian Rhapsody no 2
+- Beethoven - 3rd movement of Sonata op. 27 no 2 "Moonlight"
+- Schubert/Liszt - Erlkönig and Gretchen am Spinnrad
+- Bach - Chromatic Fantasia and Fugue in D minor BWV 903
+
+
 ## Jazz
 - Honkey tonk train blues
 
