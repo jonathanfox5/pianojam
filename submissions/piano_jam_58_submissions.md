@@ -12,6 +12,10 @@
 * Erik Satie's Gymnopédie No.1 by [/u/TaterTotsForLunch](https://www.reddit.com/r/piano/comments/8khk3j/piano_jam_58/)
 * Erik Satie's Gymnopédie No.1 by [/u/uninc4life2010](https://www.reddit.com/r/piano/comments/8kira6/piano_jam_erik_satie_gymnop%C3%A9die_no_1/)
 * Erik Satie's Gymnopédie No.1 by [/u/Prettythought](https://www.reddit.com/r/piano/comments/8kuot9/piano_jam_my_performance_of_erik_saties/)
+* Erik Satie's Gymnopédie No.1 by [/u/CubesAndPi](https://www.reddit.com/r/piano/comments/8lizsj/piano_jam_erik_satie_gymnop%C3%A9die_no1/)
+
+# Handel
+* Handel's Sonatina in D minor by [/u/clarinetist001](https://www.reddit.com/r/piano/comments/8majmr/piano_jam_sonatina_in_d_minor_handel_incomplete/)
 
 # Billie's Bounce
 * Charlie Parker's Billie's Bounce by [/u/kneks](https://www.reddit.com/r/piano/comments/8jh9gs/piano_jam_billies_bounce/)
