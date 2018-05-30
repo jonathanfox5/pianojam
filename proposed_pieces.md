@@ -76,7 +76,10 @@
 * Bartok: [No11 from For Children No1](https://www.youtube.com/watch?v=1OcKdHAQB2E) | [Sheet Music](http://www.el-atril.com/partituras/Bartok/infantil/Bartok,%20Bela%20-%20For%20Children%20(Volume%20I%20&%20II).pdf) (Page 11 of the pdf) [Grade 3-4]
 * Mendelssohn: [Song Without Words Op.19 No.4 in A Major](https://www.youtube.com/watch?v=4p-lnBD4uhM) | [Sheet Music](http://www.free-scores.com/download-sheet-music.php?pdf=7563) [Grade 5-6]
 * Chopin: [Nocturne in C# minor Op.ph](https://www.youtube.com/watch?v=tVV3SIvncD4) | [Sheet Music](http://www.freesheetmusic.net/chopin/Nocturne,%20Op%20ph.pdf) [Grade 7-8]
-* Veviurka to choose??? [Grade 8+]
+* Brahms: [Brahms - Capriccio in F sharp minor, Op. 76](https://www.youtube.com/watch?v=tbNEf9OgtRI) [Sheet Music](http://hz.imslp.info/files/imglnks/usimg/1/17/IMSLP02506-Brahms_-_Capriccio,_F-_Minor,_Op.76_No.1.pdf)
+
+3 months piece (month 1/3) - [Sonata op. 27 no 2 "Moonlight" by Beethoven](https://www.youtube.com/watch?v=j50ar2walNs) | [Sheet Music](http://imslp.org/wiki/Piano_Sonata_No.14,_Op.27_No.2_(Beethoven,_Ludwig_van)) 
+(you can play the whole or pick separate movements - the first is the easiest, the second is for intermediate pianists, the third is for the advanced)
 
 #### Jazz
 * W.C. Handy: [St. Louis Blues](https://www.youtube.com/watch?v=_94hrye_vW4) | [Sheet Music](https://www.8notes.com/scores/12240.asp) [Full Arrangement]
@@ -99,7 +102,11 @@
 * Grieg: [Arrieta](https://www.youtube.com/watch?v=5TbQftYOKms) | [Sheet Music](https://www.mfiles.co.uk/scores/grieg-lyric-piece-op12-no1-arietta.pdf) [Grade 3-4]
 * Debussy: [The Little Shepherd](https://www.youtube.com/watch?v=HsUAYyLh86E) | [Sheet Music](https://www.pianoshelf.com/sheetmusic/1381/debussy-l.113-no.5-the-little-shepherd-1381) [Grade 5-6]
 * Chopin: [Waltz op. 64 no 2 in C# minor](https://www.youtube.com/watch?v=wTSu1jjKpgI) | [Sheet Music](https://www.mfiles.co.uk/scores/Waltz-op64-no2.pdf) [Grade 7-8]
-* Veviurka to choose??? [Grade 8+]
+* Szymanowski - [Etude in Bb minor Op. 4 No. 3](https://www.youtube.com/watch?v=Qnad2T5U5jA) | [Sheet Music](http://imslp.org/wiki/4_Etudes,_Op.4_(Szymanowski,_Karol)) [Grade 8+]
+
+3 months piece (month 2/3) - [Sonata op. 27 no 2 "Moonlight" by Beethoven](https://www.youtube.com/watch?v=j50ar2walNs) | [Sheet Music](http://imslp.org/wiki/Piano_Sonata_No.14,_Op.27_No.2_(Beethoven,_Ludwig_van)) 
+(you can play the whole or pick separate movements - the first is the easiest, the second is for intermediate pianists, the third is for the advanced)
+
 
 #### Jazz
 * George Gershwin: [I'll Build a Stairway to Paradise](https://www.youtube.com/watch?v=mdn1hCinBaI) | [Sheet Music](http://imslp.eu/files/imglnks/euimg/a/a9/IMSLP10257-Gershwin_-_Own_Transcriptions.pdf) [Full Arrangement]

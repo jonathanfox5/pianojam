@@ -76,7 +76,6 @@
 - Rachmaninoff - Prelude G minor op. 23 no 5
 - Rachmaninoff - Prelude D major op. 23 no 4
 - Schubert - Impromptu in Gb major op. 90 no 3
-- Szymanowski - Etude in Bb minor, no.3 from "4 Etudes", Op.4
 - Debussy - any piece from Images (recommended Reflets dans l’eau or Hommage à Rameau)
 - Faure - Barcarolle no. 5 in F# minor
 
@@ -85,7 +84,6 @@ I believe that here should go only very known pieces
 
 - Chopin Ballade G minor
 - Liszt Hungarian Rhapsody no 2
-- Beethoven - 3rd movement of Sonata op. 27 no 2 "Moonlight"
 - Schubert/Liszt - Erlkönig and Gretchen am Spinnrad
 - Bach - Chromatic Fantasia and Fugue in D minor BWV 903
 
