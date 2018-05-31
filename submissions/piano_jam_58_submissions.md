@@ -13,6 +13,8 @@
 * Erik Satie's Gymnopédie No.1 by [/u/uninc4life2010](https://www.reddit.com/r/piano/comments/8kira6/piano_jam_erik_satie_gymnop%C3%A9die_no_1/)
 * Erik Satie's Gymnopédie No.1 by [/u/Prettythought](https://www.reddit.com/r/piano/comments/8kuot9/piano_jam_my_performance_of_erik_saties/)
 * Erik Satie's Gymnopédie No.1 by [/u/CubesAndPi](https://www.reddit.com/r/piano/comments/8lizsj/piano_jam_erik_satie_gymnop%C3%A9die_no1/)
+* Erik Satie's Gymnopédie No.1 by [/u/BayemFanTV](https://www.reddit.com/r/piano/comments/8mmg5u/piano_jam_erik_satie_gymnopedie_no1/)
+* Erik Satie's Gymnopédie No.1 by [/u/ThatVRGuy](https://www.reddit.com/r/piano/comments/8msapm/piano_jam_erik_satie_gymnopedie_no_1/)
 
 # Handel
 * Handel's Sonatina in D minor by [/u/clarinetist001](https://www.reddit.com/r/piano/comments/8majmr/piano_jam_sonatina_in_d_minor_handel_incomplete/)
@@ -20,6 +22,14 @@
 # Billie's Bounce
 * Charlie Parker's Billie's Bounce by [/u/kneks](https://www.reddit.com/r/piano/comments/8jh9gs/piano_jam_billies_bounce/)
 * Charlie Parker's Billie's Bounce by [/u/GoldmanT](https://www.reddit.com/r/piano/comments/8jv7xy/piano_jam_billies_bounce_charlie_parker/)
+
+# Gershwin
+* George Gershwin's Somebody Loves Me by [/u/MrsPumpkincrook](https://www.reddit.com/r/piano/comments/8naq8v/piano_jam_gershwin_somebody_loves_me/)
+* George Gershwin's Somebody Loves Me by [/DH](https://www.reddit.com/r/piano/comments/8nh25b/piano_jam_gershwin_somebody_loves_me_songbook/)
+
+# ToS
+* Tales of Symphonia's Sheena's Theme by [/u/Tauposaurus](https://www.reddit.com/r/piano/comments/8n3brf/piano_jam_sheena_tales_of_symphonia/)
+
 
 # Fringe
 * Fringe's The Equations by [/u/Tauposaurus](https://www.reddit.com/r/piano/comments/8iixvr/piano_jam_the_equation_fringe/)
