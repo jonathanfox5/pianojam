@@ -75,7 +75,7 @@
 * Schumann: [First Loss ( Erster Verlust ) in E minor, Op. 68 N° 16 from Album for the Young](https://www.youtube.com/watch?v=Y3LU9wLlZ1w) | [Sheet Music](https://imslp.nl/imglnks/usimg/6/66/IMSLP300406-PMLP02707-Schumann_op68_Album_f%C3%BCr_die_Jugend_DinA4.pdf) (Page 22 of the pdf) [Grade 1-2]
 * Bartok: [No11 from For Children No1](https://www.youtube.com/watch?v=1OcKdHAQB2E) | [Sheet Music](http://www.el-atril.com/partituras/Bartok/infantil/Bartok,%20Bela%20-%20For%20Children%20(Volume%20I%20&%20II).pdf) (Page 11 of the pdf) [Grade 3-4]
 * Mendelssohn: [Song Without Words Op.19 No.4 in A Major](https://www.youtube.com/watch?v=4p-lnBD4uhM) | [Sheet Music](http://www.free-scores.com/download-sheet-music.php?pdf=7563) [Grade 5-6]
-* Chopin: [Nocturne in C# minor Op.ph](https://www.youtube.com/watch?v=tVV3SIvncD4) | [Sheet Music](http://www.freesheetmusic.net/chopin/Nocturne,%20Op%20ph.pdf) [Grade 7-8]
+* Chopin: [Waltz op. 64 no 2 in C# minor](https://www.youtube.com/watch?v=wTSu1jjKpgI) | [Sheet Music](https://www.mfiles.co.uk/scores/Waltz-op64-no2.pdf) [Grade 7-8]
 * Brahms: [Brahms - Capriccio in F sharp minor, Op. 76](https://www.youtube.com/watch?v=tbNEf9OgtRI) [Sheet Music](http://hz.imslp.info/files/imglnks/usimg/1/17/IMSLP02506-Brahms_-_Capriccio,_F-_Minor,_Op.76_No.1.pdf)
 
 #### 3 month challenge
@@ -107,7 +107,7 @@ Thanks to /u/veviurka!
 * Poole: [Mist](https://www.youtube.com/watch?v=TMNVv4v3djk) | [Sheet Music](http://i.imgur.com/8Ep5w.jpg) [Grade 1-2]
 * Grieg: [Arrieta](https://www.youtube.com/watch?v=5TbQftYOKms) | [Sheet Music](https://www.mfiles.co.uk/scores/grieg-lyric-piece-op12-no1-arietta.pdf) [Grade 3-4]
 * Debussy: [The Little Shepherd](https://www.youtube.com/watch?v=HsUAYyLh86E) | [Sheet Music](https://www.pianoshelf.com/sheetmusic/1381/debussy-l.113-no.5-the-little-shepherd-1381) [Grade 5-6]
-* Chopin: [Waltz op. 64 no 2 in C# minor](https://www.youtube.com/watch?v=wTSu1jjKpgI) | [Sheet Music](https://www.mfiles.co.uk/scores/Waltz-op64-no2.pdf) [Grade 7-8]
+* Chopin: [Nocturne in C# minor Op.ph](https://www.youtube.com/watch?v=tVV3SIvncD4) | [Sheet Music](http://www.freesheetmusic.net/chopin/Nocturne,%20Op%20ph.pdf) [Grade 7-8]
 * Szymanowski - [Etude in Bb minor Op. 4 No. 3](https://www.youtube.com/watch?v=Qnad2T5U5jA) | [Sheet Music](http://imslp.org/wiki/4_Etudes,_Op.4_(Szymanowski,_Karol)) [Grade 8+]
 
 #### 3 month challenge
