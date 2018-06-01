@@ -73,7 +73,7 @@
 ## June 2018
 #### Classical
 * Schumann: [First Loss ( Erster Verlust ) in E minor, Op. 68 N° 16 from Album for the Young](https://www.youtube.com/watch?v=Y3LU9wLlZ1w) | [Sheet Music](https://imslp.nl/imglnks/usimg/6/66/IMSLP300406-PMLP02707-Schumann_op68_Album_f%C3%BCr_die_Jugend_DinA4.pdf) (Page 22 of the pdf) [Grade 1-2]
-* Bartok: [No11 from For Children No1](https://www.youtube.com/watch?v=1OcKdHAQB2E) | [Sheet Music](http://www.el-atril.com/partituras/Bartok/infantil/Bartok,%20Bela%20-%20For%20Children%20(Volume%20I%20&%20II).pdf) (Page 11 of the pdf) [Grade 3-4]
+* Bartok: [No11 from For Children No1](https://www.youtube.com/watch?v=1OcKdHAQB2E) | [Sheet Music](http://www.el-atril.com/partituras/Bartok/infantil/Bartok,%20Bela%20-%20For%20Children%20(Volume%20I%20&%20II\).pdf) (Page 11 of the pdf) [Grade 3-4]
 * Mendelssohn: [Song Without Words Op.19 No.4 in A Major](https://www.youtube.com/watch?v=4p-lnBD4uhM) | [Sheet Music](http://www.free-scores.com/download-sheet-music.php?pdf=7563) [Grade 5-6]
 * Chopin: [Waltz op. 64 no 2 in C# minor](https://www.youtube.com/watch?v=wTSu1jjKpgI) | [Sheet Music](https://www.mfiles.co.uk/scores/Waltz-op64-no2.pdf) [Grade 7-8]
 * Brahms: [Brahms - Capriccio in F sharp minor, Op. 76](https://www.youtube.com/watch?v=tbNEf9OgtRI) [Sheet Music](http://hz.imslp.info/files/imglnks/usimg/1/17/IMSLP02506-Brahms_-_Capriccio,_F-_Minor,_Op.76_No.1.pdf)
@@ -95,7 +95,7 @@ Thanks to /u/veviurka!
 * Scott Joplin: [Paragon Rag](https://www.youtube.com/watch?v=nbEXLujW6vs) | [Sheet Music](http://www.ragtimepiano.ca/images/paragon.pdf)
 
 #### Anime
-* Angel Beats: [My Soul, Your Beats](https://www.youtube.com/watch?v=O1To2M7ugm0) | [Sheet Music](http://sheet.host/sheet/DhW4eq) (Thanks to u/123kyran123)
+* Angel Beats: [My Soul, Your Beats](https://www.youtube.com/watch?v=O1To2M7ugm0) | [Sheet Music](http://sheet.host/sheet/DhW4eq) (Thanks to /u/123kyran123)
 
 #### Video Games
 * Final Fantasy: [Matoya's Cave](https://www.youtube.com/watch?v=RIvVh6xYhtk) | [Sheet Music](http://www.ninsheetmusic.org/download/pdf/784) [Easier]
@@ -131,4 +131,4 @@ Thanks to /u/veviurka!
 * Final Fantasy VII: [One Winged Angel](https://www.youtube.com/watch?v=ZRiFdIHTA5w) | [Sheet Music](http://ffmusic.ffshrine.org/ff7sheet/12%20one%20winged%20angel.zip) (There are simpler versions available, this is from the official piano collections) [Harder]
 
 #### Anime
-* Fullmetal Alchemist Brotherhood: [Again](https://www.youtube.com/watch?v=2uq34TeWEdQ) | [Sheet Music](http://sheet.host/sheet/ZGltaa) (Thanks to u/123kyran123)
+* Fullmetal Alchemist Brotherhood: [Again](https://www.youtube.com/watch?v=2uq34TeWEdQ) | [Sheet Music](http://sheet.host/sheet/ZGltaa) (Thanks to /u/123kyran123)

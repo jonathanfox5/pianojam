@@ -57,9 +57,9 @@ Please try to use YouTube / SoundCloud / Bandcamp for your links for accessibili
 ### Classical
 
 * Schumann: [First Loss ( Erster Verlust ) in E minor, Op. 68 N° 16 from Album for the Young](https://www.youtube.com/watch?v=Y3LU9wLlZ1w) | [Sheet Music](https://imslp.nl/imglnks/usimg/6/66/IMSLP300406-PMLP02707-Schumann_op68_Album_f%C3%BCr_die_Jugend_DinA4.pdf) (Page 22 of the pdf) [Grade 1-2]
-* Bartok: [No11 from For Children No1](https://www.youtube.com/watch?v=1OcKdHAQB2E) | [Sheet Music](http://www.el-atril.com/partituras/Bartok/infantil/Bartok,%20Bela%20-%20For%20Children%20(Volume%20I%20&%20II).pdf) (Page 11 of the pdf) [Grade 3-4]
+* Bartok: [No11 from For Children No1](https://www.youtube.com/watch?v=1OcKdHAQB2E) | [Sheet Music](http://www.el-atril.com/partituras/Bartok/infantil/Bartok,%20Bela%20-%20For%20Children%20(Volume%20I%20&%20II\).pdf) (Page 11 of the pdf) [Grade 3-4]
 * Mendelssohn: [Song Without Words Op.19 No.4 in A Major](https://www.youtube.com/watch?v=4p-lnBD4uhM) | [Sheet Music](http://www.free-scores.com/download-sheet-music.php?pdf=7563) [Grade 5-6]
-* Chopin: [Nocturne in C# minor Op.ph](https://www.youtube.com/watch?v=tVV3SIvncD4) | [Sheet Music](http://www.freesheetmusic.net/chopin/Nocturne,%20Op%20ph.pdf) [Grade 7-8]
+* Chopin: [Waltz op. 64 no 2 in C# minor](https://www.youtube.com/watch?v=wTSu1jjKpgI) | [Sheet Music](https://www.mfiles.co.uk/scores/Waltz-op64-no2.pdf) [Grade 7-8]
 * Brahms: [Brahms - Capriccio in F sharp minor, Op. 76](https://www.youtube.com/watch?v=tbNEf9OgtRI) [Sheet Music](http://hz.imslp.info/files/imglnks/usimg/1/17/IMSLP02506-Brahms_-_Capriccio,_F-_Minor,_Op.76_No.1.pdf)
 
 
@@ -95,7 +95,7 @@ Please try to use YouTube / SoundCloud / Bandcamp for your links for accessibili
 
 ### Anime & TV
 
-* Angel Beats: [My Soul, Your Beats](https://www.youtube.com/watch?v=O1To2M7ugm0) | [Sheet Music](http://sheet.host/sheet/DhW4eq) (Thanks to u/123kyran123)
+* Angel Beats: [My Soul, Your Beats](https://www.youtube.com/watch?v=O1To2M7ugm0) | [Sheet Music](http://sheet.host/sheet/DhW4eq) (Thanks to /u/123kyran123)
 
 
 
