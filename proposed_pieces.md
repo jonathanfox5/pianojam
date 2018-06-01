@@ -78,8 +78,14 @@
 * Chopin: [Nocturne in C# minor Op.ph](https://www.youtube.com/watch?v=tVV3SIvncD4) | [Sheet Music](http://www.freesheetmusic.net/chopin/Nocturne,%20Op%20ph.pdf) [Grade 7-8]
 * Brahms: [Brahms - Capriccio in F sharp minor, Op. 76](https://www.youtube.com/watch?v=tbNEf9OgtRI) [Sheet Music](http://hz.imslp.info/files/imglnks/usimg/1/17/IMSLP02506-Brahms_-_Capriccio,_F-_Minor,_Op.76_No.1.pdf)
 
-3 months piece (month 1/3) - [Sonata op. 27 no 2 "Moonlight" by Beethoven](https://www.youtube.com/watch?v=j50ar2walNs) | [Sheet Music](http://imslp.org/wiki/Piano_Sonata_No.14,_Op.27_No.2_(Beethoven,_Ludwig_van)) 
+#### 3 month challenge
+
+Runs from June till end of August (month 1/3)
+
+* Beethoven [Sonata op. 27 no 2 "Moonlight"](https://www.youtube.com/watch?v=j50ar2walNs) | [Sheet Music](http://imslp.org/wiki/Piano_Sonata_No.14,_Op.27_No.2_(Beethoven,_Ludwig_van)) 
 (you can play the whole or pick separate movements - the first is the easiest, the second is for intermediate pianists, the third is for the advanced)
+
+Thanks to /u/veviurka!
 
 #### Jazz
 * W.C. Handy: [St. Louis Blues](https://www.youtube.com/watch?v=_94hrye_vW4) | [Sheet Music](https://www.8notes.com/scores/12240.asp) [Full Arrangement]
@@ -91,7 +97,7 @@
 #### Anime
 * Angel Beats: [My Soul, Your Beats](https://www.youtube.com/watch?v=O1To2M7ugm0) | [Sheet Music](http://sheet.host/sheet/DhW4eq) (Thanks to u/123kyran123)
 
-#### Video Game
+#### Video Games
 * Final Fantasy: [Matoya's Cave](https://www.youtube.com/watch?v=RIvVh6xYhtk) | [Sheet Music](http://www.ninsheetmusic.org/download/pdf/784) [Easier]
 * Elder Scrolls: Skyrim: [Dragonborn Theme](https://www.youtube.com/watch?v=UsnRQJxanVM) | [Sheet Music](http://www.ninsheetmusic.org/download/pdf/2376) [Harder]
 
@@ -104,9 +110,14 @@
 * Chopin: [Waltz op. 64 no 2 in C# minor](https://www.youtube.com/watch?v=wTSu1jjKpgI) | [Sheet Music](https://www.mfiles.co.uk/scores/Waltz-op64-no2.pdf) [Grade 7-8]
 * Szymanowski - [Etude in Bb minor Op. 4 No. 3](https://www.youtube.com/watch?v=Qnad2T5U5jA) | [Sheet Music](http://imslp.org/wiki/4_Etudes,_Op.4_(Szymanowski,_Karol)) [Grade 8+]
 
-3 months piece (month 2/3) - [Sonata op. 27 no 2 "Moonlight" by Beethoven](https://www.youtube.com/watch?v=j50ar2walNs) | [Sheet Music](http://imslp.org/wiki/Piano_Sonata_No.14,_Op.27_No.2_(Beethoven,_Ludwig_van)) 
+#### 3 month challenge
+
+Runs from June till end of August (month 2/3)
+
+* Beethoven [Sonata op. 27 no 2 "Moonlight"](https://www.youtube.com/watch?v=j50ar2walNs) | [Sheet Music](http://imslp.org/wiki/Piano_Sonata_No.14,_Op.27_No.2_(Beethoven,_Ludwig_van)) 
 (you can play the whole or pick separate movements - the first is the easiest, the second is for intermediate pianists, the third is for the advanced)
 
+Thanks to /u/veviurka!
 
 #### Jazz
 * George Gershwin: [I'll Build a Stairway to Paradise](https://www.youtube.com/watch?v=mdn1hCinBaI) | [Sheet Music](http://imslp.eu/files/imglnks/euimg/a/a9/IMSLP10257-Gershwin_-_Own_Transcriptions.pdf) [Full Arrangement]
@@ -115,7 +126,7 @@
 #### Ragtime
 * Scott Joplin: [Rose Leaf Rag](https://www.youtube.com/watch?v=-tlz0ts_bE0) | [Sheet Music](https://musopen.org/music/43173-rose-leaf-rag/)
 
-#### Video Game
+#### Video Games
 * Tetris: ['A' Theme](https://www.youtube.com/watch?v=NuhuzJAibNI) | [Sheet Music](http://www.ninsheetmusic.org/download/pdf/574) (Bonus points for the Tom Brier version! ;D) [Easier]
 * Final Fantasy VII: [One Winged Angel](https://www.youtube.com/watch?v=ZRiFdIHTA5w) | [Sheet Music](http://ffmusic.ffshrine.org/ff7sheet/12%20one%20winged%20angel.zip) (There are simpler versions available, this is from the official piano collections) [Harder]
 
