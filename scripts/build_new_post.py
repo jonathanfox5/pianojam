@@ -17,7 +17,7 @@ def main():
     template_path = os.path.join(root_path, 'template.md')
     proposed_path = os.path.join(root_path, 'proposed_pieces.md')
 
-    output_path = os.path.join(posted_path,
+    post_output_path = os.path.join(posted_path,
                                standard_file_format(jam_year, jam_month, jam_no, 'Posted'))
 
     jam_no_previous = jam_no - 1
@@ -48,7 +48,7 @@ def main():
         post_body = post_body.replace(f'<<[{k}]>>', v)
 
     # Write to file
-    write_text_to_new_file(output_path, post_body)
+    write_text_to_new_file(post_output_path, post_body)
 
     # Print success
     print("Complete!")

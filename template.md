@@ -1,13 +1,3 @@
-### Submissions from last month's Piano Jam
-
-*Just to be clear, the username links are links to the posts.*
-
-*If you still have a submission but you feel it's too late then please do post it anyway and I'll happily edit it in!*
-
-<<[Submissions]>>
-
----
-
 ### Guidelines
 
 If you're new to /r/piano, the Piano Jam is a monthly event where you get the chance to challenge yourself to work on a piece of music and share your playing with the community. Whether you're a beginner or expert, we'd love to hear you play! See the guidelines below and check out all the previous piano jams in the sidebar.
@@ -63,6 +53,16 @@ Please try to use YouTube / SoundCloud / Bandcamp for your links for accessibili
 The 3 month challenge gives you extra time to learn a longer / more difficult piece.
 
 <<[3 month challenge]>>
+
+---
+
+### Submissions from last month's Piano Jam
+
+*Just to be clear, the username links are links to the posts.*
+
+*If you still have a submission but you feel it's too late then please do post it anyway and I'll happily edit it in!*
+
+<<[Submissions]>>
 
 ---
 
