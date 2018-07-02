@@ -105,16 +105,16 @@ Thanks to /u/veviurka!
 ## July 2018
 #### Classical
 * Poole: [Mist](https://www.youtube.com/watch?v=TMNVv4v3djk) | [Sheet Music](http://i.imgur.com/8Ep5w.jpg) [Grade 1-2]
-* Grieg: [Arrieta](https://www.youtube.com/watch?v=5TbQftYOKms) | [Sheet Music](https://www.mfiles.co.uk/scores/grieg-lyric-piece-op12-no1-arietta.pdf) [Grade 3-4]
+* Amy Beach: [Waltz from Children's Album](https://www.youtube.com/watch?v=DFPF79phMCU) | [Sheet Music](https://imslp.nl/imglnks/usimg/b/be/IMSLP08547-Beach_-_Op.36_-_Children's_Album.pdf) [Grade 3-4] (Thanks to /u/iamduh)
 * Debussy: [The Little Shepherd](https://www.youtube.com/watch?v=HsUAYyLh86E) | [Sheet Music](https://www.pianoshelf.com/sheetmusic/1381/debussy-l.113-no.5-the-little-shepherd-1381) [Grade 5-6]
-* Chopin: [Nocturne in C# minor Op.ph](https://www.youtube.com/watch?v=tVV3SIvncD4) | [Sheet Music](http://www.freesheetmusic.net/chopin/Nocturne,%20Op%20ph.pdf) [Grade 7-8]
-* Szymanowski - [Etude in Bb minor Op. 4 No. 3](https://www.youtube.com/watch?v=Qnad2T5U5jA) | [Sheet Music](http://imslp.org/wiki/4_Etudes,_Op.4_(Szymanowski,_Karol)) [Grade 8+]
+* Hensel: [Melody Op.4 No.2](https://www.youtube.com/watch?v=ZGnS6HdhyKE) | [Sheet Music](http://www.free-scores.com/download-sheet-music.php?pdf=660) [Grade 7-8]
+* Szymanowski - [Etude in Bb minor Op. 4 No. 3](https://www.youtube.com/watch?v=Qnad2T5U5jA) | [Sheet Music](http://imslp.org/wiki/4_Etudes,_Op.4_\(Szymanowski,_Karol\)) [Grade 8+]
 
 #### 3 month challenge
 
 Runs from June till end of August (month 2/3)
 
-* Beethoven [Sonata op. 27 no 2 "Moonlight"](https://www.youtube.com/watch?v=j50ar2walNs) | [Sheet Music](http://imslp.org/wiki/Piano_Sonata_No.14,_Op.27_No.2_(Beethoven,_Ludwig_van)) 
+* Beethoven [Sonata op. 27 no 2 "Moonlight"](https://www.youtube.com/watch?v=j50ar2walNs) | [Sheet Music](http://imslp.org/wiki/Piano_Sonata_No.14,_Op.27_No.2_\(Beethoven,_Ludwig_van\)) 
 (you can play the whole or pick separate movements - the first is the easiest, the second is for intermediate pianists, the third is for the advanced)
 
 Thanks to /u/veviurka!
@@ -128,7 +128,34 @@ Thanks to /u/veviurka!
 
 #### Video Games
 * Tetris: ['A' Theme](https://www.youtube.com/watch?v=NuhuzJAibNI) | [Sheet Music](http://www.ninsheetmusic.org/download/pdf/574) (Bonus points for the Tom Brier version! ;D) [Easier]
-* Final Fantasy VII: [One Winged Angel](https://www.youtube.com/watch?v=ZRiFdIHTA5w) | [Sheet Music](http://ffmusic.ffshrine.org/ff7sheet/12%20one%20winged%20angel.zip) (There are simpler versions available, this is from the official piano collections) [Harder]
+* Mega Man 3: [Snake Man Stage](https://www.youtube.com/watch?v=Dlg7XjQzM3s) | [Sheet Music](http://www.ninsheetmusic.org/download/pdf/621) (Thanks to /u/Tauposaurus) [Harder]
 
 #### Anime
 * Fullmetal Alchemist Brotherhood: [Again](https://www.youtube.com/watch?v=2uq34TeWEdQ) | [Sheet Music](http://sheet.host/sheet/ZGltaa) (Thanks to /u/123kyran123)
+
+
+## August 2018
+#### Classical
+* Grieg: [Arrieta](https://www.youtube.com/watch?v=5TbQftYOKms) | [Sheet Music](https://www.mfiles.co.uk/scores/grieg-lyric-piece-op12-no1-arietta.pdf) [Grade 3-4]
+* Chopin: [Nocturne in C# minor Op.ph](https://www.youtube.com/watch?v=tVV3SIvncD4) | [Sheet Music](http://www.freesheetmusic.net/chopin/Nocturne,%20Op%20ph.pdf) [Grade 7-8]
+
+#### 3 month challenge
+
+Runs from June till end of August (month 3/3)
+
+* Beethoven [Sonata op. 27 no 2 "Moonlight"](https://www.youtube.com/watch?v=j50ar2walNs) | [Sheet Music](http://imslp.org/wiki/Piano_Sonata_No.14,_Op.27_No.2_(Beethoven,_Ludwig_van)) 
+(you can play the whole or pick separate movements - the first is the easiest, the second is for intermediate pianists, the third is for the advanced)
+
+Thanks to /u/veviurka!
+
+#### Jazz
+
+
+#### Ragtime
+
+
+#### Video Games
+* Final Fantasy VII: [One Winged Angel](https://www.youtube.com/watch?v=ZRiFdIHTA5w) | [Sheet Music](http://ffmusic.ffshrine.org/ff7sheet/12%20one%20winged%20angel.zip) (There are simpler versions available, this is from the official piano collections) [Harder]
+
+#### Anime
+
