@@ -134,19 +134,45 @@ Thanks to /u/veviurka!
 * Fullmetal Alchemist Brotherhood: [Again](https://www.youtube.com/watch?v=2uq34TeWEdQ) | [Sheet Music](http://sheet.host/sheet/ZGltaa) (Thanks to /u/123kyran123)
 
 
+
+
+
 ## August 2018
 #### Classical
-* Grieg: [Arrieta](https://www.youtube.com/watch?v=5TbQftYOKms) | [Sheet Music](https://www.mfiles.co.uk/scores/grieg-lyric-piece-op12-no1-arietta.pdf) [Grade 3-4]
-* Chopin: [Nocturne in C# minor Op.ph](https://www.youtube.com/watch?v=tVV3SIvncD4) | [Sheet Music](http://www.freesheetmusic.net/chopin/Nocturne,%20Op%20ph.pdf) [Grade 7-8]
+* Bach [Minuet in D Minor, BWV Anh.132](https://www.youtube.com/watch?v=NmAtYPIcrls) | [Sheet Music](http://music.arts.uci.edu/dobrian/Music16D2012/dminorminuet.pdf)
+* Friedrich Burgmüller [L'harmonie des anges (Harmony of the Angels)](https://www.youtube.com/watch?v=JU2_ud6hQ88) | [Sheet Music](http://ks4.imslp.info/files/imglnks/usimg/b/bd/IMSLP253725-PMLP07983-FBurgmuller_25_Etudes_faciles,_Op.100_BNE.pdf) (page 26, thanks to /u/gadogry) [Grade 3-4]
+* Dmitri Kabalevsky [A Slow Waltz in A Minor, Op. 39, No. 23](https://youtu.be/qAnra06y8xU?t=10m27s) | [Sheet Music](http://www.lachsa.net/ourpages/auto/2014/6/27/67460680/Kabalevsky-piano.pdf) (thanks to /u/coconutlimeverbena) [Grade 3-4]]
+* Chopin [Nocturne in F minor, Op. 55 No. 1](https://m.youtube.com/watch?v=NONg06Pf0v8) | [Sheet Music](https://musescore.com/classicman/scores/131461) [Grade 7-8] (Thanks to /u/heisenberg_was_hot)
 
 #### 3 month challenge
 
 Runs from June till end of August (month 3/3)
 
-* Beethoven [Sonata op. 27 no 2 "Moonlight"](https://www.youtube.com/watch?v=j50ar2walNs) | [Sheet Music](http://imslp.org/wiki/Piano_Sonata_No.14,_Op.27_No.2_(Beethoven,_Ludwig_van)) 
+* Beethoven [Sonata op. 27 no 2 "Moonlight"](https://www.youtube.com/watch?v=j50ar2walNs) | [Sheet Music](http://imslp.org/wiki/Piano_Sonata_No.14,_Op.27_No.2_\(Beethoven,_Ludwig_van\)) 
 (you can play the whole or pick separate movements - the first is the easiest, the second is for intermediate pianists, the third is for the advanced)
 
 Thanks to /u/veviurka!
+
+#### Jazz
+
+* Pat Metheny [Letter From Home](https://www.youtube.com/watch?v=PskDqzce9Ms) | [Sheet Music](https://drive.google.com/open?id=1LNsTMmbqu-i1izOjhPFALI3Gse_L8KF6) (thanks to /u/GoldmanT) [Full Arrangement]
+
+#### Ragtime
+* Scott Joplin [The Entertainer](https://www.youtube.com/watch?v=t9gzZJ344Co) | [Sheet Music](http://www.mutopiaproject.org/ftp/JoplinS/entertainer/entertainer-a4.pdf) (thanks to /u/fede)
+
+#### Video Games
+* Xenoblade Chronicles 2 [Elysium, in the Blye Sky](https://youtu.be/ou4lPJFx7ek) | [Sheet Music](https://musescore.com/user/125704/scores/4118271)
+
+#### Anime
+* Kimi no Na wa [Date 2 & Mitsuha's Theme](https://www.youtube.com/watch?v=IIPF-AI6XZM) | [Sheet Music](https://musescore.com/user/2466621/scores/4034481) | [Easier]
+
+
+## September 2018
+#### Classical
+* Grieg: [Arrieta](https://www.youtube.com/watch?v=5TbQftYOKms) | [Sheet Music](https://www.mfiles.co.uk/scores/grieg-lyric-piece-op12-no1-arietta.pdf) [Grade 3-4]
+* Chopin: [Nocturne in C# minor Op.ph](https://www.youtube.com/watch?v=tVV3SIvncD4) | [Sheet Music](http://www.freesheetmusic.net/chopin/Nocturne,%20Op%20ph.pdf) [Grade 7-8]
+
+#### 3 month challenge
 
 #### Jazz
 
